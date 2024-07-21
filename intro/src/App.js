@@ -3,7 +3,7 @@ import Navi from "./Navi";
 import ProductList from "./ProductList";
 import {Container, Row, Col} from 'reactstrap';
 import React, { Component } from 'react';
-
+import alertify from "alertifyjs"
 
 
 export default class App extends Component {
